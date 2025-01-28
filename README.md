@@ -1,1 +1,1 @@
-[PortFolio](sandeepjha-web.vercel.app "Target:blank")
+[PortFolio](sandeepjha-web.vercel.app)
